@@ -77,7 +77,7 @@ app.use("/api/bills", billsRoutes);
 
 
 
-const PORT = 5001;
+const PORT = 5000;
 app.listen(PORT, () => {
     console.log('listening on port ' + PORT);
 });

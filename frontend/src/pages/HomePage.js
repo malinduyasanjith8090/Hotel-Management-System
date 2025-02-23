@@ -218,7 +218,7 @@ const HomePage = () => {
           alt="Cinnamon Red Hotel"
           style={styles.logo}
         />
-        <h1 style={styles.headerText}>Welcome to Cinnamon Red Hotel</h1>
+        <h1 style={styles.headerText}>Welcome to Marina Beach Hotel</h1>
         <p style={styles.subHeader}>Experience a luxurious stay like never before</p>
         <button style={styles.loginButton} onClick={handleLoginClick}>Login</button>
       </header>
